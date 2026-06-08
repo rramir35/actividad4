@@ -119,3 +119,10 @@ print("   - dataset_estaciones.csv")
 print("   - clustering_estaciones.png")
 
 print("🏁 FIN DE LA EJECUCIÓN")
+
+print("\n📌 CONCLUSIÓN:")
+print("El algoritmo K-Means permitió identificar grupos de estaciones")
+print("con características similares dentro del sistema de transporte.")
+print("El modelo agrupó las estaciones según variables como distancia,")
+print("tiempo promedio y flujo de usuarios, facilitando el análisis")
+print("del comportamiento del sistema de transporte masivo.")
